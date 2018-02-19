@@ -29,7 +29,7 @@ context on ivory see:
 
  - [https://speakerdeck.com/ambiata/ivory-data-modelling](https://speakerdeck.com/ambiata/ivory-data-modelling)
 
- - [https://github.com/ambiata/ivory](https://github.com/ambiata/ivory) *(internal Ambiata only)*
+ - [https://github.com/tmcgilchrist/ivory](https://github.com/tmcgilchrist/ivory) 
 
 
 facts & values
