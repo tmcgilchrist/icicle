@@ -84,7 +84,7 @@ expressions
 
 Ivory contains notes on some required expressions:
 
- - https://github.com/ambiata/ivory/blob/master/doc/design/feature-gen.md *(internal Ambiata only)*
+ - https://github.com/tmcgilchrist/ivory/blob/master/doc/design/feature-gen.md 
 
 Supporting this will be the existing corpus of ivory dictionaries.
 
