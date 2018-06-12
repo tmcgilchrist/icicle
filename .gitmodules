@@ -1,27 +1,27 @@
 [submodule "lib/x"]
 	path = lib/x
-	url = https://github.com/ambiata/x
+	url = https://github.com/tmcgilchrist/x
 [submodule "lib/p"]
 	path = lib/p
-	url = https://github.com/ambiata/p
+	url = https://github.com/tmcgilchrist/p
 [submodule "lib/disorder.hs"]
 	path = lib/disorder.hs
-	url = https://github.com/ambiata/disorder.hs
+	url = https://github.com/tmcgilchrist/disorder.hs
 [submodule "lib/jetski"]
 	path = lib/jetski
-	url = https://github.com/ambiata/jetski
+	url = https://github.com/tmcgilchrist/jetski
 [submodule "lib/anemone"]
 	path = lib/anemone
-	url = https://github.com/ambiata/anemone
+	url = https://github.com/tmcgilchrist/anemone
 [submodule "lib/zebra"]
 	path = lib/zebra
-	url = https://github.com/ambiata/zebra
+	url = https://github.com/tmcgilchrist/zebra
 [submodule "lib/snapper"]
 	path = lib/snapper
-	url = https://github.com/ambiata/snapper
+	url = https://github.com/tmcgilchrist/snapper
 [submodule "lib/piano"]
 	path = lib/piano
-	url = https://github.com/ambiata/piano
+	url = https://github.com/tmcgilchrist/piano
 [submodule "lib/viking"]
 	path = lib/viking
-	url = https://github.com/ambiata/viking
+	url = https://github.com/tmcgilchrist/viking
