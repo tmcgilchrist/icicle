@@ -1,27 +1,37 @@
 [submodule "lib/p"]
 	path = lib/p
-	url = ../p
+	url = https://github.com/icicle-lang/p.git
+	branch = master
 [submodule "lib/x"]
 	path = lib/x
-	url = ../x
+	url = https://github.com/icicle-lang/x.git
+	branch = master
 [submodule "lib/disorder.hs"]
 	path = lib/disorder.hs
-	url = ../disorder
+	url = https://github.com/icicle-lang/disorder.git
+	branch = master
 [submodule "lib/jetski"]
 	path = lib/jetski
-	url = ../jetski
+	url = https://github.com/icicle-lang/jetski.git
+	branch = master
 [submodule "lib/anemone"]
 	path = lib/anemone
-	url = ../anemone
+	url = https://github.com/icicle-lang/anemone.git
+	branch = master
 [submodule "lib/zebra"]
 	path = lib/zebra
-	url = ../zebra
+	url = https://github.com/icicle-lang/zebra.git
+	branch = master
 [submodule "lib/snapper"]
 	path = lib/snapper
-	url = ../snapper
+	url = https://github.com/icicle-lang/snapper.git
+	branch = master
 [submodule "lib/piano"]
 	path = lib/piano
-	url = ../piano
+	url = https://github.com/icicle-lang/piano.git
+	branch = master
 [submodule "lib/viking"]
 	path = lib/viking
-	url = ../viking
+	url = https://github.com/icicle-lang/viking.git
+	branch = master
+
